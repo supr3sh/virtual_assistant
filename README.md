@@ -2,13 +2,13 @@
 
 In this project i have used following python modules:
 
-## Pyttsx3
-## datetime
-## speechRecognition
-## wikipedia
-## webbrowser
-## os
-## random
+Pyttsx3
+datetime
+speechRecognition
+wikipedia
+webbrowser
+os
+random
 
 This is a virtual assistant named friend.
 
